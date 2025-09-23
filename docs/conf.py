@@ -21,6 +21,7 @@ myst_enable_extensions = ["colon_fence", "substitution", "linkify", "include"]
 myst_allow_substitutions = True
 myst_heading_anchors = 3
 myst_enable_extensions.append("external")
+include_patterns = ["**/*", "../README.md"]
 
 source_suffix = {'.md': 'markdown'}
 
