@@ -1,13 +1,14 @@
 # Under construction! Come back soon!
 
 # WILLIAM K. SOUSA, JR. (BILL)
+**Harrisburg, PA 17112 | WKSJR99@MSN.COM**\
 
-#### Harrisburg, PA 17112 | WKSJR99@MSN.COM | http://www.linkedin.com/in/bill-sousa-251245190
-#### - GitHub Public Profile: https://github.com/BillSousa
-#### - Online Resume: https://bill-sousa-resume.readthedocs.io/en/latest/
+**LinkedIn: http://www.linkedin.com/in/bill-sousa-251245190** \
+**GitHub Public Profile: https://github.com/BillSousa** \
+**Online Resume: https://bill-sousa-resume.readthedocs.io/en/latest/**
 
 ## Summary
-- **FORMER CHEMICAL / MANUFACTURING ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
+- **FORMER CHEMICAL / MFG ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
 - Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics.
 - Python developer and open-source maintainer with expertise in building scalable, interoperable data analytics tools.
 - Creator of pybear, a data analytics library built on scikit-learn conventions, optimized for real-world robustness.
