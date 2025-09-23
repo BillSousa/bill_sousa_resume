@@ -2,7 +2,6 @@
 name = "bill_sousa_resume"
 version = "0.0"
 description = "Bill Sousa Resume"
-license = None
 authors = ["Bill Sousa <WKSJR99@msn.com>"]
 maintainers = ["Bill Sousa"]
 readme = "README.md"
@@ -12,10 +11,7 @@ readme = "README.md"
 homepage = "https://github.com/BillSousa/bill_sousa_resume"
 repository = "https://github.com/BillSousa/bill_sousa_resume"
 #documentation
-keywords = None
 #classifiers
-packages = None
-include = None
 #exclude
 
 
