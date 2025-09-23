@@ -25,7 +25,7 @@ source_suffix = {'.md': 'markdown'}
 
 html_theme = 'sphinx_book_theme'
 html_theme_options = {
-    "repository_url": "https://github.com/PylarBear/bear-resume",
+    "repository_url": "https://github.com/BillSousa/bill_sousa_resume",
     "use_repository_button": True,   # adds a GitHub link button
     "use_download_button": False,    # hide “download this page” if you don’t need it
     "use_fullscreen_button": True,   # toggle sidebar fullscreen
