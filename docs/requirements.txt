@@ -1,5 +1,5 @@
 sphinx
 myst-parser
-press
+sphinx-press-theme
 
 
