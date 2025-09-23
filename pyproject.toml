@@ -11,7 +11,14 @@ readme = "README.md"
 homepage = "https://github.com/BillSousa/bill_sousa_resume"
 repository = "https://github.com/BillSousa/bill_sousa_resume"
 #documentation
+keywords = ["Bill Sousa resume"]
 #classifiers
+packages = [
+	{ include = "bill_sousa_resume"}
+]
+include = [
+    "README.md"
+]
 #exclude
 
 
