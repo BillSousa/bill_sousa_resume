@@ -2,6 +2,6 @@
 
 ## Under construction! Come back soon!
 
-```{include} ../README.md
+```{include} SYMLINK_TO_README.md
 
 
