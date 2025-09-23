@@ -13,7 +13,9 @@ repository = "https://github.com/BillSousa/bill_sousa_resume"
 #documentation
 keywords = ["Bill Sousa resume"]
 #classifiers
-packages = []
+packages = [
+	{ include = "bill_sousa_resume", from = "src"}
+]
 #exclude
 
 
