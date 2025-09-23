@@ -17,13 +17,17 @@ release = '0.0'
 extensions = [
     'myst_parser'
 ]
+myst_enable_extensions = ["colon_fence", "substitution", "linkify", "include"]
+myst_allow_substitutions = True
+myst_heading_anchors = 3
+myst_enable_extensions.append("external")
 
 source_suffix = {'.md': 'markdown'}
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_context = {
    # ...
