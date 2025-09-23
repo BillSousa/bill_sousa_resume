@@ -9,12 +9,11 @@
 
 ## Summary
 - **FORMER CHEMICAL / MFG ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
-- Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics.
-- Python developer and open-source maintainer with expertise in building scalable, interoperable data analytics tools.
+- Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools.
 - Creator of pybear, a data analytics library built on scikit-learn conventions, optimized for real-world robustness.
 - Demonstrated end-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD.
 - Proficient in data querying, analysis, and presentation with Python, SQL, Excel / VBA, and Tableau.
-- Skilled in producing and communicating with operating and financial performance metrics; fully literate in financials.
+- Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics.
 
 ## Skills
 - Programming Languages: JavaScript, Python, Java
