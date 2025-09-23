@@ -9,7 +9,7 @@
 project = 'bill_sousa_resume'
 copyright = 'Bill Sousa'
 author = 'Bill Sousa'
-release = 0.0
+release = '0.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
