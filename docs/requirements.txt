@@ -1,5 +1,4 @@
 sphinx
-pydata_sphinx_theme
 myst-parser
 
 
