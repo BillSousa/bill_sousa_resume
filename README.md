@@ -70,21 +70,21 @@ Excel / VBA
 Naïve Bayes Classifiers
 
 #### Other Skills (Engineering, Lean Manufacturing, Six Sigma)
-Lean / six sigma green belt, Pareto / histogram analysis, Statistical process control (SPC), 
-Kanban, Design of experiment (DOE), 5S, DMAIC, FMEA, Kaizen
-
-**Functions**:	
+**Engineering Functions**:
 Product development, project management, process / product failure analysis and recovery,
 engineering experiment design, execution, and analysis, process modeling, cost estimates,
 new part quotes, analytical method on-boarding, process troubleshooting, tooling design,
-SOP / BOM creation and maintenance
-**Methods**:
+SOP / BOM creation and maintenance\
+**Analytical Methods**:\
 Atomic absorption spectrophotometry (AAS), X-ray fluorescence (XRF),
 UV-visible spectrophotometry (UV-Vis), scanning electron microscopy (SEM),
 gas chromatography (GC), digital microscopy
+**Lean / Six Sigma Tools:**\
+Lean / six sigma green belt, Pareto / histogram analysis, Statistical process control (SPC), 
+Design of experiment (DOE), 5S, DMAIC, FMEA, Kaizen, Kanban
 
 #### Other Professional Experience
-**TE CONNECTIVITY (TYCO ELECTRONICS / TYCO INTERNATIONAL), 2005 – 2015**
+**TE CONNECTIVITY (TYCO ELECTRONICS / TYCO INTERNATIONAL), 2005 – 2015**\
 A multi-billion dollar company that manufactures products that connect the flow of power 
 and data for the consumer electronics, automotive, aerospace, and communications industries.\
 **Manufacturing Development Engineer, Middletown, PA,  2013 – 2015**\
@@ -95,12 +95,13 @@ Comprehensively own electroplating and waste water treatment operations in suppo
 Process owner of a selective photoresist masking reel-to-reel precious metal electroplating line.  Plant plating point of contact for product migration, insource / outsource activities, Engineering Change approvals, new part quotes, cost estimates, and R&D samples.  Successfully overhauled and delivered a prototype miniature line as part of an integrated manufacturing cell development project.\
 **Plating Engineer, Carlisle, PA, 2005 – 2009**\
 Process owner of several reel-to-reel selective precious metal electroplating lines.  Drove line rate, scrap, and precious metal usage cost savings projects from concept to completion.\
-**HANDY AND HARMAN ELECTRONIC MATERIALS, East Providence, RI 2004 – 2005**
+
+**HANDY AND HARMAN ELECTRONIC MATERIALS, East Providence, RI 2004 – 2005**\
 Contract provider of integrated stamping, electroplating, and molding solutions.  Now operated by Interplex.\
 **Process Engineer**\
 Off-shift process engineering and wet lab support for 9 reel-to-reel selective precious metal electroplating lines.  Primary engineer for 2 rack lines.  Troubleshot equipment and chemistry, and performed routine wet chemical analyses.\  
 
-**UTC FUEL CELLS, South Windsor, CT, 2000 – 2002**
+**UTC FUEL CELLS, South Windsor, CT, 2000 – 2002**\
 A former subsidiary of United Technologies that developed and produced phosphoric acid and PEM fuel cells for automotive, commercial building, space, and marine applications.\
 **Associate Engineer Test / Reliability**\
 Instructed and supported endurance testing of PEM fuel cells for maximum yield of performance data.  Authored operating and test procedures, troubleshot causes of test stand and fuel cell failure, and implemented corrective actions.
