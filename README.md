@@ -20,7 +20,7 @@
 Python 3 / PyCharm / Jupyter Notebook (numpy, pandas, scikit, tensorflow, torch, xgboost)
 Excel (VBA, Solver, PowerPivot)
 SQL Server / MySQL
-Tableau Desktop 2022 / Server - For examples visit https://public.tableau.com/profile/wksjr99#!/
+[Tableau Desktop 2022 / Server](<https://public.tableau.com/profile/wksjr99#!/>)
 SAP-PP
 Minitab
 Word / PowerPoint / Access / Project  
@@ -31,16 +31,16 @@ AutoCAD
 
 #### Coding Experience
 **OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
-Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and feature extraction using a scikit-learn-style API.\
+Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and text analytics using a scikit-learn-style API.\
 **pybear GitHub repo**: <https://github.com/PylarBear/pybear/>  
 **Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>   
 **PyPI project site**: <https://pypi.org/project/pybear/>
 
-Languages: Python 3.9–3.13, Markdown, reStructuredText\
-Platforms: Linux, macOS, Windows\
+**Languages**: Python 3.9–3.13, Markdown, reStructuredText\
+**Platforms**: Linux, macOS, Windows\
 Enabled seamless integration with numpy, pandas, polars, and scipy.sparse data containers\
 Implemented parallel processing with joblib, partial fitting support, and missing value handling\
-Wrote complete user and API documentation using Sphinx, published to Read the Docs\
+Wrote complete user and API documentation using [Sphinx](<https://www.sphinx-doc.org/en/master/index.html#>), published to [Read the Docs](<https://about.readthedocs.com/>)\
 Built and maintained automated tests and CI for multiple Python versions and OS platforms\
 Packaged and published installable distributions to PyPI\
 Robust Testing Pipeline: GitHub Actions matrix builds across Python 3.10–3.13, Linux/macOS/Windows\
@@ -59,7 +59,7 @@ Linear / Logit / Softmax Regression (scikit)\
 Supervised Neural Networks (tensorflow)\
 Support Vector Machines (scikit)\
 Clustering (scikit)\
-Decision Trees (scikit / xgboost, lightgbm)\
+Decision Trees (scikit, xgboost, lightgbm)\
 Tableau Desktop 2022 / Server\
 Power BI Desktop / Service\
 MySQL 8.0 / Workbench\
