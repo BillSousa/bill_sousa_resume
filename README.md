@@ -16,15 +16,15 @@
 - Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics.
 
 #### Computer Skills
-**Proficient / Expert**
+**Proficient / Expert**  
 Python 3 / PyCharm / Jupyter Notebook (numpy, pandas, scikit, tensorflow, torch, xgboost)
 Excel (VBA, Solver, PowerPivot)
 SQL Server / MySQL
 Tableau Desktop 2022 / Server - For examples visit https://public.tableau.com/profile/wksjr99#!/
 SAP-PP
 Minitab
-Word / PowerPoint / Access / Project
-**Some Exposure**
+Word / PowerPoint / Access / Project  
+**Some Exposure**  
 Base SAS
 Power BI Desktop / Service
 Julia
@@ -92,15 +92,15 @@ Member of a centralized operations support group with comprehensive expertise in
 **Materials Research Engineer, Middletown, PA, 2012 – 2013**\
 Comprehensively own electroplating and waste water treatment operations in support of renewed plating emphasis in materials R&D group.  Provide perspective on internal manufacturing base capabilities and state-of-the-art practices.  Produce lab-scale batch samples for research focused on durability, porosity, novel metallurgies and substrates, etc.\
 **Plating Engineer, Rock Hill, SC, 2009 – 2011**\
-Plant plating point of contact for product migration, insource / outsource activities, Engineering Change approvals, new part quotes, cost estimates, and R&D samples.  Process owner of a selective photoresist masking reel-to-reel precious metal electroplating line.  Successfully overhauled and delivered a prototype miniature line as part of an integrated manufacturing cell development project.\
+Process owner of a selective photoresist masking reel-to-reel precious metal electroplating line.  Plant plating point of contact for product migration, insource / outsource activities, Engineering Change approvals, new part quotes, cost estimates, and R&D samples.  Successfully overhauled and delivered a prototype miniature line as part of an integrated manufacturing cell development project.\
 **Plating Engineer, Carlisle, PA, 2005 – 2009**\
 Process owner of several reel-to-reel selective precious metal electroplating lines.  Drove line rate, scrap, and precious metal usage cost savings projects from concept to completion.\
-#### HANDY AND HARMAN ELECTRONIC MATERIALS, East Providence, RI 2004 – 2005
+**HANDY AND HARMAN ELECTRONIC MATERIALS, East Providence, RI 2004 – 2005**
 Contract provider of integrated stamping, electroplating, and molding solutions.  Now operated by Interplex.\
 **Process Engineer**\
 Off-shift process engineering and wet lab support for 9 reel-to-reel selective precious metal electroplating lines.  Primary engineer for 2 rack lines.  Troubleshot equipment and chemistry, and performed routine wet chemical analyses.\  
 
-#### UTC FUEL CELLS, South Windsor, CT, 2000 – 2002
+**UTC FUEL CELLS, South Windsor, CT, 2000 – 2002**
 A former subsidiary of United Technologies that developed and produced phosphoric acid and PEM fuel cells for automotive, commercial building, space, and marine applications.\
 **Associate Engineer Test / Reliability**\
 Instructed and supported endurance testing of PEM fuel cells for maximum yield of performance data.  Authored operating and test procedures, troubleshot causes of test stand and fuel cell failure, and implemented corrective actions.
