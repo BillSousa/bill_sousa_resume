@@ -31,12 +31,12 @@ AutoCAD
 
 #### Coding Experience
 **OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
-Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and text analytics using a scikit-learn-style API.\
+Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and text analytics using the scikit-learn API.\
 **pybear GitHub repo**: <https://github.com/PylarBear/pybear/>  
 **Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>   
 **PyPI project site**: <https://pypi.org/project/pybear/>
 
-**Languages**: Python 3.9–3.13, Markdown, reStructuredText\
+**Languages**: [Python](<https://www.python.org/>) 3.9–3.13, Markdown, reStructuredText\
 **Platforms**: Linux, macOS, Windows\
 Enabled seamless integration with numpy, pandas, polars, and scipy.sparse data containers\
 Implemented parallel processing with joblib, partial fitting support, and missing value handling\
@@ -83,7 +83,7 @@ Lean / six sigma green belt, Pareto / histogram analysis, Statistical process co
 Design of experiment (DOE), 5S, DMAIC, FMEA, Kaizen, Kanban
 
 #### Other Professional Experience
-**TE CONNECTIVITY (TYCO ELECTRONICS / TYCO INTERNATIONAL), 2005 – 2015**\
+**[TE CONNECTIVITY](<https://www.te.com/en/home.html>) (TYCO ELECTRONICS / TYCO INTERNATIONAL), 2005 – 2015**\
 A multi-billion dollar company that manufactures products that connect the flow of power 
 and data for the consumer electronics, automotive, aerospace, and communications industries.\
 **Manufacturing Development Engineer, Middletown, PA,  2013 – 2015**\
@@ -95,23 +95,23 @@ Process owner of a selective photoresist masking reel-to-reel precious metal ele
 **Plating Engineer, Carlisle, PA, 2005 – 2009**\
 Process owner of several reel-to-reel selective precious metal electroplating lines.  Drove line rate, scrap, and precious metal usage cost savings projects from concept to completion.
 
-**HANDY AND HARMAN ELECTRONIC MATERIALS, East Providence, RI 2004 – 2005**\
+**[HANDY AND HARMAN ELECTRONIC MATERIALS](<https://interplex.com/>), East Providence, RI 2004 – 2005**\
 Contract provider of integrated stamping, electroplating, and molding solutions.  Now operated by Interplex.\
 **Process Engineer**\
 Off-shift process engineering and wet lab support for 9 reel-to-reel selective precious metal electroplating lines.  Primary engineer for 2 rack lines.  Troubleshot equipment and chemistry, and performed routine wet chemical analyses.\  
 
-**UTC FUEL CELLS, South Windsor, CT, 2000 – 2002**\
+**[UTC FUEL CELLS](<https://www.rtx.com/>), South Windsor, CT, 2000 – 2002**\
 A former subsidiary of United Technologies that developed and produced phosphoric acid and PEM fuel cells for automotive, commercial building, space, and marine applications.\
 **Associate Engineer Test / Reliability**\
 Instructed and supported endurance testing of PEM fuel cells for maximum yield of performance data.  Authored operating and test procedures, troubleshot causes of test stand and fuel cell failure, and implemented corrective actions.
 
 #### Education
 **Bachelor of Science, Chemical Engineering, with Distinction**\
-The University of Rhode Island, 1999\
+[The University of Rhode Island](<https://web.uri.edu/cheme/>), 1999\
 Cumulative GPA: 3.49 of 4.00\
 Honors: Cum Laude, Nelson C. White Dean’s Award for performance
 
 **Master of Business Administration**\
-The University of Rhode Island, 2003\
+[The University of Rhode Island](<https://web.uri.edu/business/>), 2003\
 Cumulative GPA: 3.59 of 4.00\
 Honors: Magna Cum Laude
