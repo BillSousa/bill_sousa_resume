@@ -32,9 +32,9 @@ AutoCAD
 #### Coding Experience
 **OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
 Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and feature extraction using a scikit-learn-style API.\
-**pybear GitHub repo**: https://github.com/PylarBear/pybear  
-**Documentation Site (Read the Docs)**: https://pybear.readthedocs.io/   
-**PyPI project site**: https://pypi.org/project/pybear/
+**pybear GitHub repo**: <https://github.com/PylarBear/pybear/>  
+**Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>   
+**PyPI project site**: <https://pypi.org/project/pybear/>
 
 Languages: Python 3.9–3.13, Markdown, reStructuredText\
 Platforms: Linux, macOS, Windows\
