@@ -27,7 +27,6 @@ Word / PowerPoint / Access / Project
 **Some Exposure**  
 Base SAS
 Power BI Desktop / Service
-Julia
 AutoCAD
 
 #### Coding Experience
@@ -53,20 +52,20 @@ Focused on building libraries that are both technically rigorous and highly usab
  
 **PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present** 
 
-Added or expanded competency in
-Python 3 / PyCharm / Jupyter
-numpy, pandas, scikit, tensorflow
-Linear / Logit / Softmax Regression (scikit)
-Supervised Neural Networks (tensorflow)
-Support Vector Machines (scikit)
-Clustering (scikit)
-Decision Trees (scikit / xgboost, lightgbm)
-Tableau Desktop 2022 / Server
-Power BI Desktop / Service
-MySQL 8.0 / Workbench
-SQL Server 2019 / SSMS
-Base SAS / Studio 3.8
-Excel / VBA
+Added or expanded competency in\
+Python 3 / PyCharm / Jupyter\
+numpy, pandas, scikit, tensorflow\
+Linear / Logit / Softmax Regression (scikit)\
+Supervised Neural Networks (tensorflow)\
+Support Vector Machines (scikit)\
+Clustering (scikit)\
+Decision Trees (scikit / xgboost, lightgbm)\
+Tableau Desktop 2022 / Server\
+Power BI Desktop / Service\
+MySQL 8.0 / Workbench\
+SQL Server 2019 / SSMS\
+Base SAS / Studio 3.8\
+Excel / VBA\
 Naïve Bayes Classifiers
 
 #### Other Skills (Engineering, Lean Manufacturing, Six Sigma)
@@ -78,7 +77,7 @@ SOP / BOM creation and maintenance\
 **Analytical Methods**:\
 Atomic absorption spectrophotometry (AAS), X-ray fluorescence (XRF),
 UV-visible spectrophotometry (UV-Vis), scanning electron microscopy (SEM),
-gas chromatography (GC), digital microscopy
+gas chromatography (GC), digital microscopy\
 **Lean / Six Sigma Tools:**\
 Lean / six sigma green belt, Pareto / histogram analysis, Statistical process control (SPC), 
 Design of experiment (DOE), 5S, DMAIC, FMEA, Kaizen, Kanban
