@@ -17,7 +17,12 @@
 
 #### Computer Skills
 **Proficient / Expert**  
-Python 3 / PyCharm / Jupyter Notebook (numpy, pandas, scikit, tensorflow, torch, xgboost)
+Python 3 / PyCharm / Jupyter Notebook
+Libraries & Frameworks: numpy, pandas, polars, scipy, scikit-learn, xgboost, joblib, dask, dask-ml, tensorflow
+Developer Tools: poetry, tox, pytest
+Documentation: Sphinx, numpydoc, Read the Docs
+CI/CD: GitHub Actions
+Platforms: Linux, Windows
 Excel (VBA, Solver, PowerPivot)
 SQL Server / MySQL
 [Tableau Desktop 2022 / Server](<https://public.tableau.com/profile/wksjr99#!/>)
