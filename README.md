@@ -9,59 +9,45 @@
 
 #### Summary
 - **FORMER CHEMICAL / MANUFACTURING ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
-- Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools.
-- Creator of [pybear](https://pypi.org/project/pybear/), a Python data analytics library built on scikit-learn conventions, optimized for real-world data.
-- Demonstrated end-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD.
-- Proficient in data querying, analysis, and presentation with Python, SQL, Excel / VBA, and Tableau.
-- Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics.
+- Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools
+- Creator of [pybear](https://pypi.org/project/pybear/), a Python data analytics library built on scikit-learn conventions
+- Demonstrated end-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD
+- Proficient in data querying, analysis, and presentation with Python, SQL, Excel / VBA, and Tableau
+- Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics
 
 #### Computer Skills
 **Proficient / Expert**  
-Python 3 / PyCharm / Jupyter Notebook
-Libraries & Frameworks: numpy, pandas, polars, scipy, scikit-learn, xgboost, joblib, dask, dask-ml, tensorflow
-Developer Tools: poetry, tox, pytest
-Documentation: Sphinx, numpydoc, Read the Docs
-CI/CD: GitHub Actions
-Platforms: Linux, Windows
-Excel (VBA, Solver, PowerPivot)
-SQL Server / MySQL
-[Tableau Desktop 2022 / Server](<https://public.tableau.com/profile/wksjr99#!/>)
-SAP-PP
-Minitab
-Word / PowerPoint / Access / Project  
+Python 3 / PyCharm / Jupyter Notebook\
+Libraries & Frameworks: numpy, pandas, polars, scipy, scikit-learn, xgboost, joblib, dask, dask-ml, tensorflow\
+Developer Tools: poetry, tox, pytest\
+Documentation: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs\
+CI/CD: GitHub Actions\
+Platforms: Linux, Windows\
+Excel (VBA, Solver, PowerPivot), SQL Server / MySQL, 
+[Tableau Desktop 2022 / Server](<https://public.tableau.com/profile/wksjr99#!/>), SAP-PP, 
+Minitab, Word, PowerPoint, Access, Project  
 **Some Exposure**  
-Base SAS
-Power BI Desktop / Service
-AutoCAD
+Base SAS, Power BI Desktop / Service, AutoCAD
 
 #### Coding Experience
 **OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
-Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and text analytics using the scikit-learn API.\
-**pybear GitHub repo**: <https://github.com/PylarBear/pybear/>  
+Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and text analytics using the scikit-learn API, optimized for real-world data.\
+**GitHub repo**: <https://github.com/PylarBear/pybear/>  
 **Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>   
-**PyPI project site**: <https://pypi.org/project/pybear/>
-
-**Languages**: [Python](<https://www.python.org/>) 3.9–3.13, Markdown, reStructuredText\
+**PyPI project site**: <https://pypi.org/project/pybear/>\
+**Languages**: [Python](<https://www.python.org/>) 3.10–3.13\
 **Platforms**: Linux, macOS, Windows\
-Enabled seamless integration with numpy, pandas, polars, and scipy.sparse data containers\
-Implemented parallel processing with joblib, partial fitting support, and missing value handling\
+Implemented parallel processing with joblib, bigger-than-memory data processing with partial fitting support, and missing value handling\
+Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
 Wrote complete user and API documentation using [Sphinx](<https://www.sphinx-doc.org/en/master/index.html#>), published to [Read the Docs](<https://about.readthedocs.com/>)\
-Built and maintained automated tests and CI for multiple Python versions and OS platforms\
+Built and maintained robust automated tests and CI with GitHub Actions matrix builds for Python 3.10–3.13, Linux/macOS/Windows\
 Packaged and published installable distributions to PyPI\
-Robust Testing Pipeline: GitHub Actions matrix builds across Python 3.10–3.13, Linux/macOS/Windows\
-Type Safety & Linting: fully type-annotated, compatible with modern static analysis tools\
-Developer Onboarding: Authored CONTRIBUTING guide, enforced PEP-8, docstring formatting, and stable public APIs\
-Advocate for clean, maintainable code and human-readable APIs\
-Maintains detailed developer-facing documentation and contribution standards\
-Focused on building libraries that are both technically rigorous and highly usable by data scientists
  
-**PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present** 
-
+**PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present**
 Added or expanded competency in\
-Python 3 / PyCharm / Jupyter\
-numpy, pandas, scikit, tensorflow\
+Python 3 / PyCharm / Jupyter and popular third party packages
 Linear / Logit / Softmax Regression (scikit)\
-Supervised Neural Networks (tensorflow)\
+Supervised Neural Networks (scikit, tensorflow)\
 Support Vector Machines (scikit)\
 Clustering (scikit)\
 Decision Trees (scikit, xgboost, lightgbm)\
@@ -74,7 +60,7 @@ Excel / VBA\
 Naïve Bayes Classifiers
 
 #### Other Skills (Engineering, Lean Manufacturing, Six Sigma)
-**Engineering Functions**:
+**Engineering Functions**:\
 Product development, project management, process / product failure analysis and recovery,
 engineering experiment design, execution, and analysis, process modeling, cost estimates,
 new part quotes, analytical method on-boarding, process troubleshooting, tooling design,
