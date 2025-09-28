@@ -10,8 +10,8 @@
 #### Summary
 - **FORMER CHEMICAL / MANUFACTURING ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
 - Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools
-- Creator of [pybear](https://pypi.org/project/pybear/), a Python data analytics library built on scikit-learn conventions
-- Demonstrated end-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD
+- Creator of [pybear](https://pypi.org/project/pybear/), a published Python data analytics library built on scikit-learn conventions
+- End-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD
 - Proficient in data querying, analysis, and presentation with Python, SQL, Excel / VBA, and Tableau
 - Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics
 
@@ -41,11 +41,11 @@ Implemented parallel processing with joblib, bigger-than-memory data processing 
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
 Wrote complete user and API documentation using [Sphinx](<https://www.sphinx-doc.org/en/master/index.html#>), published to [Read the Docs](<https://about.readthedocs.com/>)\
 Built and maintained robust automated tests and CI with GitHub Actions matrix builds for Python 3.10–3.13, Linux/macOS/Windows\
-Packaged and published installable distributions to PyPI\
+Packaged and published installable distributions to PyPI
  
 **PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present**
 Added or expanded competency in\
-Python 3 / PyCharm / Jupyter and popular third party packages
+Python 3 / PyCharm / Jupyter and popular third party packages\
 Linear / Logit / Softmax Regression (scikit)\
 Supervised Neural Networks (scikit, tensorflow)\
 Support Vector Machines (scikit)\
