@@ -1,5 +1,3 @@
-# 🚧 Under construction! Come back soon! 🚧
-
 ## WILLIAM K. SOUSA, JR. (BILL)
 **Harrisburg, PA 17112 | WKSJR99@MSN.COM**
 
@@ -43,7 +41,7 @@ Wrote complete user and API documentation using [Sphinx](<https://www.sphinx-doc
 Built and maintained robust automated tests and CI with GitHub Actions matrix builds for Python 3.10–3.13, Linux/macOS/Windows\
 Packaged and published installable distributions to PyPI
  
-**PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present**
+**PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present**\
 Added or expanded competency in\
 Python 3 / PyCharm / Jupyter and popular third party packages\
 Linear / Logit / Softmax Regression (scikit)\
@@ -89,7 +87,7 @@ Process owner of several reel-to-reel selective precious metal electroplating li
 **[HANDY AND HARMAN ELECTRONIC MATERIALS](<https://interplex.com/>), East Providence, RI 2004 – 2005**\
 Contract provider of integrated stamping, electroplating, and molding solutions.  Now operated by Interplex.\
 **Process Engineer**\
-Off-shift process engineering and wet lab support for 9 reel-to-reel selective precious metal electroplating lines.  Primary engineer for 2 rack lines.  Troubleshot equipment and chemistry, and performed routine wet chemical analyses.\  
+Off-shift process engineering and wet lab support for 9 reel-to-reel selective precious metal electroplating lines.  Primary engineer for 2 rack lines.  Troubleshot equipment and chemistry, and performed routine wet chemical analyses.
 
 **[UTC FUEL CELLS](<https://www.rtx.com/>), South Windsor, CT, 2000 – 2002**\
 A former subsidiary of United Technologies that developed and produced phosphoric acid and PEM fuel cells for automotive, commercial building, space, and marine applications.\
