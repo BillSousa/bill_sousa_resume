@@ -1,6 +1,7 @@
 ## WILLIAM K. SOUSA, JR. (BILL)
-**Harrisburg, PA 17112 | WKSJR99@MSN.COM**
+**Engineer • Data Analyst • Python Developer • Open Source Maintainer**
 
+**Harrisburg, PA 17112 | WKSJR99@MSN.COM**\
 **LinkedIn: <http://www.linkedin.com/in/bill-sousa-251245190>** \
 **GitHub Public Profile: <https://github.com/BillSousa>** \
 **Online Resume: <https://bill-sousa-resume.readthedocs.io/en/latest/>**
@@ -8,7 +9,7 @@
 #### Summary
 - **FORMER CHEMICAL / MANUFACTURING ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
 - Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools
-- Creator of [pybear](https://pypi.org/project/pybear/), a published Python data analytics library built on scikit-learn conventions
+- Creator of [pybear](https://pypi.org/project/pybear/), an open-source Python data analytics library built on scikit-learn conventions
 - End-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD
 - Proficient in data querying, analysis, and presentation with Python, SQL, Excel / VBA, and Tableau
 - Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics
@@ -35,10 +36,10 @@ Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featur
 **PyPI project site**: <https://pypi.org/project/pybear/>\
 **Languages**: [Python](<https://www.python.org/>) 3.10–3.13\
 **Platforms**: Linux, macOS, Windows\
-Implemented parallel processing with joblib, bigger-than-memory data processing with partial fitting support, and missing value handling\
+Implemented joblib parallelism, bigger-than-memory data processing with incremental fitting, and missing value handling\
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
 Wrote complete user and API documentation using [Sphinx](<https://www.sphinx-doc.org/en/master/index.html#>), published to [Read the Docs](<https://about.readthedocs.com/>)\
-Built and maintained robust automated tests and CI with GitHub Actions matrix builds for Python 3.10–3.13, Linux/macOS/Windows\
+Built and maintained automated tests and CI with GitHub Actions for Python 3.10–3.13 on Linux/macOS/Windows\
 Packaged and published installable distributions to PyPI
  
 **PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present**\
@@ -51,11 +52,9 @@ Clustering (scikit)\
 Decision Trees (scikit, xgboost, lightgbm)\
 Tableau Desktop 2022 / Server\
 Power BI Desktop / Service\
-MySQL 8.0 / Workbench\
-SQL Server 2019 / SSMS\
+MySQL / SQL Server\
 Base SAS / Studio 3.8\
-Excel / VBA\
-Naïve Bayes Classifiers
+Excel / VBA
 
 #### Other Skills (Engineering, Lean Manufacturing, Six Sigma)
 **Engineering Functions**:\
