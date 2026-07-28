@@ -1,7 +1,7 @@
 ## WILLIAM K. SOUSA, JR. (BILL)
 **Engineer • Data Analyst • Python Developer • Open Source Maintainer**
 
-**WKSJR99@MSN.COM | Harrisburg, PA 17112**\
+**[WKSJR99@MSN.COM](mailto:WKSJR99@MSN.COM) | Harrisburg, PA 17112**\
 **LinkedIn Profile: <http://www.linkedin.com/in/bill-sousa-251245190>** \
 **GitHub Public Profile: <https://github.com/BillSousa>** \
 **Online Resume: <https://bill-sousa-resume.readthedocs.io/en/latest/>**
@@ -72,7 +72,7 @@ model selection, and text analytics using the scikit-learn API, optimized for re
 **GitHub repo**: <https://github.com/PylarBear/pybear/>\
 **Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>  
 **PyPI project site**: <https://pypi.org/project/pybear/>\
-**Languages**: [Python 3](<https://www.python.org/>), all actively supported minor versions
+**Languages**: [Python 3](<https://www.python.org/>), all actively supported minor versions\
 **Platforms**: Linux, macOS, Windows
 
 Implemented bigger-than-memory data processing with incremental fitting, missing value handling, and joblib parallelism\
