@@ -7,26 +7,70 @@
 **Online Resume: <https://bill-sousa-resume.readthedocs.io/en/latest/>**
 
 #### Summary
-- **FORMER CHEMICAL / MANUFACTURING ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
+**FORMER CHEMICAL / MANUFACTURING ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
 - Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools
 - Creator of [pybear](https://pypi.org/project/pybear/), an open-source Python data analytics library built on scikit-learn conventions
 - End-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD
 - Proficient in data querying, analysis, and presentation with Python, SQL, Excel / VBA, and Tableau
-- Chemical Engineer / MBA with 15+ years’ progressive experience in lean manufacturing, 10+ years in roles supporting the manufacture of electrical connectors for consumer electronics
+- Skilled in producing and communicating with operating and financial performance metrics, fully literate in financials
+- Chemical Engineer / MBA with 15+ years’ progressive experience in intensive lean manufacturing environments
+- 10+ years’ experience in roles supporting the manufacture of electrical connectors in consumer electronics industries
 
 #### Computer Skills
-**Proficient / Expert**  
-Python 3 / PyCharm / Jupyter Notebook\
-Libraries & Frameworks: numpy, pandas, polars, scipy, scikit-learn, xgboost, joblib, dask, dask-ml, tensorflow\
-Developer Tools: poetry, tox, pytest\
-Documentation: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs\
-CI/CD: GitHub Actions\
-Platforms: Linux, Windows\
-Excel (VBA, Solver, PowerPivot), SQL Server / MySQL, 
-[Tableau Desktop 2022 / Server](<https://public.tableau.com/profile/wksjr99#!/>), SAP-PP, 
-Minitab, Word, PowerPoint, Access, Project  
-**Some Exposure**  
+
+[//]: # (| **Proficient / Expert** | | |)
+
+[//]: # (|---|---|---|)
+
+[//]: # (| Platforms: Linux, Windows | Excel &#40;VBA, Solver, PowerPivot&#41; | Minitab |)
+
+[//]: # (| MySQL, SQL Server | Word, PowerPoint, Access, Project | SAP-PP |)
+
+
+
+<table>
+  <tr>
+    <th colspan="3" style="text-align: left;">Proficient / Expert</th>
+  </tr>
+  <tr>
+    <td>• Windows and Linux Operating Systems</td>
+    <td>• Excel (VBA, Solver, PowerPivot)</td>
+    <td>• Minitab</td>
+  </tr>
+  <tr>
+    <td>• MySQL, SQL Server</td>
+    <td>• Word / PowerPoint / Project / Access</td>
+    <td>• SAP-PP</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: left;">• Tableau Desktop / Server - For examples visit my <a href="https://public.tableau.com/profile/wksjr99#!/"> Tableau profile</a></td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align: left;">• Check out my badges on <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank</a></td>
+  </tr>
+  <tr>
+    <th colspan="3" style="text-align: left;">Some Exposure</th>
+  </tr>
+  <tr>
+    <td>• Base SAS</td>
+    <td>• Power BI Desktop / Service</td>
+    <td>• Julia</td>
+  </tr>
+</table>
+
+
+Libraries & Frameworks: numpy, pandas, polars, scipy, scikit-learn, xgboost, joblib, dask, dask-ml, tensorflow
+Developer Tools: poetry, tox, pytest
+Documentation: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs
+CI/CD: GitHub Actions
+ 
+[Tableau Desktop 2022 / Server](<https://public.tableau.com/profile/wksjr99#!/>)
+  
+| **Some Exposure** |
 Base SAS, Power BI Desktop / Service, AutoCAD
+
+Python 3 / PyCharm / Jupyter Notebook
+
 
 #### Coding Experience
 **OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
@@ -34,7 +78,7 @@ Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featur
 **GitHub repo**: <https://github.com/PylarBear/pybear/>  
 **Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>   
 **PyPI project site**: <https://pypi.org/project/pybear/>\
-**Languages**: [Python](<https://www.python.org/>) 3.10–3.13\
+**Languages**: [Python](<https://www.python.org/>) 3.10–3.14\
 **Platforms**: Linux, macOS, Windows\
 Implemented joblib parallelism, bigger-than-memory data processing with incremental fitting, and missing value handling\
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
