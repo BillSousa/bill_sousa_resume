@@ -17,7 +17,6 @@
 - 10+ years’ experience in roles supporting the manufacture of electrical connectors in consumer electronics industries
 
 #### Computer Skills
-
 | **Proficient / Expert**                                                           |                                                                        |       |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------|-------|
 | Platforms: Linux, Windows                                                         | Excel (VBA, Solver, PowerPivot)                                        | MySQL, SQL Server  |
@@ -27,104 +26,66 @@
 | Base SAS                                                                          | Power BI Desktop | Julia |
 
 [//]: # (<table>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <th colspan="3" style="text-align: left;">Proficient / Expert</th>)
-
 [//]: # (  </tr>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <td>• Windows and Linux Operating Systems</td>)
-
 [//]: # (    <td>• Excel &#40;VBA, Solver, PowerPivot&#41;</td>)
-
 [//]: # (    <td>• Minitab</td>)
-
 [//]: # (  </tr>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <td>• MySQL, SQL Server</td>)
-
 [//]: # (    <td>• Word / PowerPoint / Project / Access</td>)
-
 [//]: # (    <td>• SAP-PP</td>)
-
 [//]: # (  </tr>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <td colspan="3" style="text-align: left;">• Tableau Desktop / Server - For examples visit my <a href="https://public.tableau.com/profile/wksjr99#!/"> Tableau profile</a></td>)
-
 [//]: # (  </tr>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <td colspan="3" style="text-align: left;">• Check out my badges on <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank</a></td>)
-
 [//]: # (  </tr>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <th colspan="3" style="text-align: left;">Some Exposure</th>)
-
 [//]: # (  </tr>)
-
 [//]: # (  <tr>)
-
 [//]: # (    <td>• Base SAS</td>)
-
 [//]: # (    <td>• Power BI Desktop / Service</td>)
-
 [//]: # (    <td>• Julia</td>)
-
 [//]: # (  </tr>)
-
 [//]: # (</table>)
 
-
-Libraries & Frameworks: numpy, pandas, polars, scipy, scikit-learn, xgboost, joblib, dask, dask-ml, tensorflow
-Developer Tools: poetry, tox, pytest
-Documentation: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs
-CI/CD: GitHub Actions
- 
-[Tableau Desktop 2022 / Server](<https://public.tableau.com/profile/wksjr99#!/>)
-  
-| **Some Exposure** |
-Base SAS, Power BI Desktop / Service, AutoCAD
-
-Python 3 / PyCharm / Jupyter Notebook
-
+#### Python Programming Skills
+**Libraries & Frameworks**: numpy, pandas, scipy, polars, joblib, scikit, pytorch, matplotlib and dozens of others. Ask.\
+**Documentation**: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs\
+**AI Assisted Coding**: Claude Code<span style="padding-left: 5ch;"></span>**IDEs**: PyCharm, VS Code, Jupyter Notebook, Google Colab\
+**Platforms**: Linux, Windows<span style="padding-left: 11ch;"></span>**Developer Tools**: poetry, tox, pytest<span style="padding-left: 11ch;"></span>**CI/CD**: GitHub Actions
 
 #### Coding Experience
 **OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
-Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model selection, and text analytics using the scikit-learn API, optimized for real-world data.\
-**GitHub repo**: <https://github.com/PylarBear/pybear/>  
-**Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>   
+Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model \
+selection, and text analytics using the scikit-learn API, optimized for real-world data.\
+
+**GitHub repo**: <https://github.com/PylarBear/pybear/>\
+**Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>  
 **PyPI project site**: <https://pypi.org/project/pybear/>\
 **Languages**: [Python](<https://www.python.org/>) 3.10–3.14\
-**Platforms**: Linux, macOS, Windows\
-Implemented joblib parallelism, bigger-than-memory data processing with incremental fitting, and missing value handling\
+**Platforms**: Linux, macOS, Windows
+
+Implemented bigger-than-memory data processing with incremental fitting, missing value handling, and joblib parallelism\
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
 Wrote complete user and API documentation using [Sphinx](<https://www.sphinx-doc.org/en/master/index.html#>), published to [Read the Docs](<https://about.readthedocs.com/>)\
-Built and maintained automated tests and CI with GitHub Actions for Python 3.10–3.13 on Linux/macOS/Windows\
+Built and maintained automated tests and CI with GitHub Actions for Python 3.10–3.14 on Linux/macOS/Windows\
 Packaged and published installable distributions to PyPI
  
 **PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present**\
-Added or expanded competency in\
-Python 3 / PyCharm / Jupyter and popular third party packages\
-Linear / Logit / Softmax Regression (scikit)\
-Supervised Neural Networks (scikit, tensorflow)\
-Support Vector Machines (scikit)\
-Clustering (scikit)\
-Decision Trees (scikit, xgboost, lightgbm)\
-Tableau Desktop 2022 / Server\
-Power BI Desktop / Service\
-MySQL / SQL Server\
-Base SAS / Studio 3.8\
-Excel / VBA
+
+| Added or expanded competency in | | |
+|---|---|---|
+| Python 3 / PyCharm / Jupyter | Excel (VBA, Solver, PowerPivot) | Linear / Logit / Softmax Regression (scikit) |
+| MySQL / SQL Server | Clustering (scikit) | Naive Bayes Classifiers |
+| Tableau Desktop / Server | Support Vector Machines (scikit) | Decision Trees (scikit, xgboost, lightgbm) |
+| Power BI Desktop / Service | Base SAS / Studio 3.8 | Supervised Neural Networks (scikit, tensorflow) |
 
 #### Other Skills (Engineering, Lean Manufacturing, Six Sigma)
 **Engineering Functions**:\
