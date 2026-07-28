@@ -57,14 +57,17 @@
 
 #### Python Programming Skills
 **Libraries & Frameworks**: numpy, pandas, scipy, polars, joblib, scikit, pytorch, matplotlib and many others. Ask.\
-**Documentation**: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs\
-**AI Assisted Coding**: Claude Code<span style="padding-left: 5ch;"></span>**IDEs**: PyCharm, VS Code, Jupyter Notebook, Google Colab\
-**Platforms**: Linux, Windows<span style="padding-left: 10ch;"></span>**Developer Tools**: poetry, tox, pytest<span style="padding-left: 8ch;"></span>**CI/CD**: GitHub Actions
+**IDEs**: PyCharm, VS Code, Jupyter Notebook, Google Colab\
+**Platforms**: Linux, Windows\
+**AI Assisted Coding**: Claude Code\
+**Developer Tools**: poetry, tox, pytest\
+**CI/CD**: GitHub Actions\
+**Documentation**: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs
 
 #### Coding Experience
 **OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
-Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, model \
-selection, and text analytics using the scikit-learn API, optimized for real-world data.\
+Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, \
+model selection, and text analytics using the scikit-learn API, optimized for real-world data.
 
 **GitHub repo**: <https://github.com/PylarBear/pybear/>\
 **Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>  
