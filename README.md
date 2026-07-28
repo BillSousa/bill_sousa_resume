@@ -18,45 +18,71 @@
 
 #### Computer Skills
 
-[//]: # (| **Proficient / Expert** | | |)
+| **Proficient / Expert**                                                           |                                                                        |       |
+|-----------------------------------------------------------------------------------|------------------------------------------------------------------------|-------|
+| Platforms: Linux, Windows                                                         | Excel (VBA, Solver, PowerPivot)                                        | MySQL, SQL Server  |
+| Minitab                                                                           | Word, PowerPoint, Access, Project                                      | SAP-PP |
+| <a href="https://public.tableau.com/profile/wksjr99#!/"> Tableau Desktop / Server | <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank Badges |
+| **Some Exposure**                                                                 |                                                                        |       |
+| Base SAS                                                                          | Power BI Desktop | Julia |
 
-[//]: # (|---|---|---|)
+[//]: # (<table>)
 
-[//]: # (| Platforms: Linux, Windows | Excel &#40;VBA, Solver, PowerPivot&#41; | Minitab |)
+[//]: # (  <tr>)
 
-[//]: # (| MySQL, SQL Server | Word, PowerPoint, Access, Project | SAP-PP |)
+[//]: # (    <th colspan="3" style="text-align: left;">Proficient / Expert</th>)
 
+[//]: # (  </tr>)
 
+[//]: # (  <tr>)
 
-<table>
-  <tr>
-    <th colspan="3" style="text-align: left;">Proficient / Expert</th>
-  </tr>
-  <tr>
-    <td>• Windows and Linux Operating Systems</td>
-    <td>• Excel (VBA, Solver, PowerPivot)</td>
-    <td>• Minitab</td>
-  </tr>
-  <tr>
-    <td>• MySQL, SQL Server</td>
-    <td>• Word / PowerPoint / Project / Access</td>
-    <td>• SAP-PP</td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align: left;">• Tableau Desktop / Server - For examples visit my <a href="https://public.tableau.com/profile/wksjr99#!/"> Tableau profile</a></td>
-  </tr>
-  <tr>
-    <td colspan="3" style="text-align: left;">• Check out my badges on <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank</a></td>
-  </tr>
-  <tr>
-    <th colspan="3" style="text-align: left;">Some Exposure</th>
-  </tr>
-  <tr>
-    <td>• Base SAS</td>
-    <td>• Power BI Desktop / Service</td>
-    <td>• Julia</td>
-  </tr>
-</table>
+[//]: # (    <td>• Windows and Linux Operating Systems</td>)
+
+[//]: # (    <td>• Excel &#40;VBA, Solver, PowerPivot&#41;</td>)
+
+[//]: # (    <td>• Minitab</td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td>• MySQL, SQL Server</td>)
+
+[//]: # (    <td>• Word / PowerPoint / Project / Access</td>)
+
+[//]: # (    <td>• SAP-PP</td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td colspan="3" style="text-align: left;">• Tableau Desktop / Server - For examples visit my <a href="https://public.tableau.com/profile/wksjr99#!/"> Tableau profile</a></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td colspan="3" style="text-align: left;">• Check out my badges on <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank</a></td>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <th colspan="3" style="text-align: left;">Some Exposure</th>)
+
+[//]: # (  </tr>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td>• Base SAS</td>)
+
+[//]: # (    <td>• Power BI Desktop / Service</td>)
+
+[//]: # (    <td>• Julia</td>)
+
+[//]: # (  </tr>)
+
+[//]: # (</table>)
 
 
 Libraries & Frameworks: numpy, pandas, polars, scipy, scikit-learn, xgboost, joblib, dask, dask-ml, tensorflow
