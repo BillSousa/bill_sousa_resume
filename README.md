@@ -59,7 +59,7 @@
 **Libraries & Frameworks**: numpy, pandas, scipy, polars, joblib, scikit, pytorch, matplotlib and dozens more. Ask.\
 **IDEs**: PyCharm, VS Code, Jupyter Notebook, Google Colab\
 **Platforms**: Linux, Windows\
-**AI Assisted Coding**: Claude Code\
+**AI Assisted Coding**: [Claude Code](https://code.claude.com/docs/en/overview/)\
 **Developer Tools**: poetry, uv, tox, pytest\
 **CI/CD**: GitHub Actions\
 **Documentation**: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs
