@@ -42,4 +42,4 @@ html_meta = {
     "google-site-verification": "Vfm-HV9ibdA4ubmnyo7bO3KJ4LgmB48Lxp634CmYAPI",
     "description": "Bill Sousa resume."
 }
-html_baseurl = "https://bill-sousa-resume.readthedocs.io/en/stable/"
+html_baseurl = "https://bill-sousa-resume.readthedocs.io/en/latest/"
