@@ -38,6 +38,12 @@ html_context = {
    # ...
    "default_mode": "light"
 }
+# html meta is now being handled in /_templates/layout.html
+# sphinx_book_theme isn't rendering html_meta from conf.py into the actual
+# HTML <head> section. Need to put the meta tags directly into layout.html
+# using Jinja, which bypasses the theme and injects them directly into the
+# HTML output. Leave html_meta unhashed --- should the sphinx theme ever
+# be changed, won't need to remember to unhash this.
 html_meta = {
     "google-site-verification": "Vfm-HV9ibdA4ubmnyo7bO3KJ4LgmB48Lxp634CmYAPI",
     "description": "Bill Sousa resume."
