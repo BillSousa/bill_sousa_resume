@@ -106,7 +106,7 @@ multiple linear & logistic regression, normality testing, 5S, FMEA, kaizen, kanb
 mistake proofing, RPN, root cause analysis
 
 #### Other Professional Experience
-**[TE CONNECTIVITY](<https://www.te.com/en/home.html>) (TYCO ELECTRONICS / TYCO INTERNATIONAL), 2005 – 2015**\
+**[TE CONNECTIVITY](<https://www.te.com/en/about-te/our-company.html>) (TYCO ELECTRONICS / TYCO INTERNATIONAL), 2005 – 2015**\
 *A multi-billion dollar company that manufactures products that connect the flow of power 
 and data for the consumer electronics, automotive, aerospace, and communications industries.*\
 **Manufacturing Development Engineer, Middletown, PA,  2013 – 2015**\
