@@ -20,12 +20,12 @@
 | **Proficient / Expert**                                                           |                                                                        |       |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------|-------|
 | Windows 95 - Windows 11 operating systems                                         | Expert Excel (VBA, Solver, PowerPivot)                                 | MySQL / Workbench |
-| Word, PowerPoint, Access, Project                                                 | Outlook, Edge, Chrome, Firefox                                         | SQL Server / SSMS |
-| Debian-based Linux operating systems                                              | LibreOffice                                                           | Minitab |
+| Git / GitHub                                                                      | Word, PowerPoint, Access, Project                                      | SQL Server / SSMS |
+| Debian-based Linux operating systems                                              | LibreOffice                                                            | Minitab |
 | <a href="https://public.tableau.com/profile/wksjr99#!/"> Tableau Desktop / Server | <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank Badges | SAP-PP | 
 | **Some Exposure**                                                                 |                                                                        |        |
-| Base SAS / Studio                                                                 | Power BI Desktop / Service | Julia |
-| AutoCAD                                                                           | TrueChem | Microsoft Visio |
+| Databricks                                                                        | Power BI Desktop / Service                                             | Base SAS / Studio |
+| AutoCAD                                                                           | TrueChem                                                               | Microsoft Visio |
 
 [//]: # (<table>)
 [//]: # (  <tr>)
@@ -92,7 +92,7 @@ Packaged and published installable distributions to PyPI
 | Tableau Desktop / Server | Support Vector Machines (scikit) | Decision Trees (scikit, xgboost, lightgbm)               |
 | Power BI Desktop / Service | Base SAS | Supervised Neural Networks (scikit, tensorflow, pytorch) |
 
-#### Other Skills (Engineering, Lean Manufacturing, Six Sigma)
+#### Other Skills (Engineering, Lean / Six Sigma, Metal Finishing)
 **Lean / Six Sigma Skills:**\
 Lean / six sigma green belt, multiple linear & logistic regression, statistical process control (SPC), Pareto / histogram analysis, normality testing, root cause analysis, hypothesis testing, design of experiment (DOE), 5S, FMEA, kaizen, kanban, C&E matrix, DMAIC, gage R&R, preventative maintenance, mistake proofing, value stream mapping, critical spares, standard work, RPN, 5Y, cellular manufacturing, one piece flow, ISO900X
 
