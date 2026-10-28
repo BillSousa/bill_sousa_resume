@@ -28,8 +28,8 @@ html_theme = 'sphinx_book_theme'
 html_theme_options = {
     "repository_url": "https://github.com/BillSousa/bill_sousa_resume",
     "use_repository_button": True,   # adds a GitHub link button
-    "use_download_button": False,    # hide “download this page” if you don’t need it
-    "use_fullscreen_button": True,   # toggle sidebar fullscreen
+    "use_download_button": True,     # hide “download this page” if you don’t need it
+    "use_fullscreen_button": False,  # toggle sidebar fullscreen
     "logo_only": False,              # show site name next to logo if you add one
     "single_page": True,             # collapses left TOC sidebar
 }
