@@ -11,7 +11,7 @@
 - Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools
 - Creator of [pybear](https://pypi.org/project/pybear/), an open-source Python data analytics library built on scikit-learn conventions
 - End-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD
-- Proficient in data querying, analysis, and presentation with Python, SQL, Excel / VBA, and Tableau
+- Proficient in data querying, analysis, and presentation with Python, MySQL, SQL Server, Excel / VBA, and Tableau
 - Skilled in producing and communicating with operating and financial performance metrics, fully literate in financials
 - Chemical Engineer / MBA with 15+ years’ progressive experience in intensive lean manufacturing environments
 - 10+ years’ experience in roles supporting the manufacture of electrical connectors in consumer electronics industries
@@ -20,12 +20,11 @@
 | **Proficient / Expert**                                                           |                                                                        |       |
 |-----------------------------------------------------------------------------------|------------------------------------------------------------------------|-------|
 | Windows 95 - Windows 11 operating systems                                         | Expert Excel (VBA, Solver, PowerPivot)                                 | MySQL / Workbench |
-| Git / GitHub                                                                      | Word, PowerPoint, Access, Project                                      | SQL Server / SSMS |
+| Git / GitHub                                                                      | Word / PowerPoint / Access / Project                                   | SQL Server / SSMS |
 | Debian-based Linux operating systems                                              | LibreOffice                                                            | Minitab |
-| <a href="https://public.tableau.com/profile/wksjr99#!/"> Tableau Desktop / Server | <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank Badges | SAP-PP | 
+| Tableau Desktop / Server                                                          | <a href="https://www.hackerrank.com/profile/WKSJR99">HackerRank Badges | SAP-PP | 
 | **Some Exposure**                                                                 |                                                                        |        |
 | Databricks                                                                        | Power BI Desktop / Service                                             | Base SAS / Studio |
-| AutoCAD                                                                           | TrueChem                                                               | Microsoft Visio |
 
 [//]: # (<table>)
 [//]: # (  <tr>)
@@ -60,37 +59,68 @@
 #### Python Programming Skills
 **Libraries & Frameworks**: numpy, pandas, scipy, polars, joblib, scikit, pytorch, matplotlib and dozens more. Ask.\
 **IDEs**: PyCharm, VS Code, Jupyter Notebook, Google Colab\
-**AI Assisted Coding**: Claude Code\
+**AI Assisted Coding**: Claude Code / Aider\
 **Agentic Frameworks**: langchain, langgraph\
 **Developer Tools**: poetry, uv, tox, pytest\
 **CI/CD**: GitHub Actions\
 **Documentation**: Sphinx, Markdown, reStructuredText, numpydoc, Read the Docs
 
-#### Coding Experience
-**OPEN-SOURCE PYTHON CREATOR AND MAINTAINER, 2024 - Present**\
-Designed and developed [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing, \
-model selection, and text analytics using the scikit-learn API, optimized for real-world data.
-
-**GitHub repo**: <https://github.com/PylarBear/pybear/>\
-**Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>  
-**PyPI project site**: <https://pypi.org/project/pybear/>\
-**Languages**: Python 3, all actively supported minor versions\
-**Platforms**: Linux, macOS, Windows
-
+#### Projects
+**PYTHON ANALYTICS DEVELOPMENT AND PUBLISHING (WITHOUT AI ASSIST)**\
+[pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing,
+model selection, and text analytics using the scikit-learn API, optimized for real-world data.\
 Implemented bigger-than-memory data processing with incremental fitting, missing value handling, and joblib parallelism\
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
 Wrote complete user and API documentation using Sphinx, published to Read the Docs\
-Built and maintained automated tests and CI with GitHub Actions for Python 3.10–3.15 on Linux/macOS/Windows\
-Packaged and published installable distributions to PyPI
- 
+Built and maintained automated tests and CI with GitHub Actions for Python 3.10–3.15 on Windows / Linux / macOS\
+Packaged and published installable distributions to PyPI\
+**GitHub repo**: <https://github.com/PylarBear/pybear/>\
+**Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>  
+**PyPI project site**: <https://pypi.org/project/pybear/>
+
+Major modules:
+- AutoGridSearchCV - Run multiple uninterrupted passes of grid search utilizing progressively narrower search grids.
+- GSTCV (GridSearchThresholdCV) - Conventional grid search on a classifier with concurrent threshold search. Finds the global optima for the passed parameters and thresholds.
+- InterceptManager - Manage constant columns in a dataset. Remove all, keep one, or append a column of constants.
+- ColumnDeduplicator - Identify and selectively remove duplicate columns in numerical or categorical data.
+- MinCountTransformer - Minimum frequency thresholding on numerical and categorical data across an entire array of data simultaneously.
+- SlimPolyFeatures - Polynomial expansion on a dataset omitting constant and duplicate columns from the output.
+- Text Analytics - Text wrangling tools built in scikit transformer API style that have the dual capability of working with regular expressions or literal strings. The modules include: Lexicon, NGramMerger, StopRemover, TextJoiner, TextJustifier, TextLookup, TextLookupRealTime, TextNormalizer, TextPadder, TextRemover, TextReplacer, TextSplitter, TextStatistics, and TextStripper.
+
+**AI-ASSISTED PYTHON DEVELOPMENT**\
+[foodlog](https://github.com/BillSousa/foodlog): (In-process) Python-based nutrition logging program, built completely by closed-source AI agent code assist\
+Closed-source coding harness: Claude Code\
+Closed-source coding models: Claude Haiku, Claude Sonnet\
+GitHub repo: https://github.com/BillSousa/foodlog
+
+[krypto](https://github.com/BillSousa/krypto): Python implementation of the classic mathematics card game, built by open-source AI agent code-assist\
+Open-source coding harness: Aider\
+Open-source coding models: Qwen2.5-coder:14B, Qwen3.5-coder:30B served locally by ollama\
+GitHub repo: https://github.com/BillSousa/krypto \
+To download the Windows executable, go to the latest release page on the Krypto GitHub repo: https://github.com/BillSousa/krypto/releases/latest
+Once on the Krypto release page, under the "Assets" heading, find the krypto-windows.exe executable and click on it; 
+navigate to your desired save location on your computer, and select "Save". Double-click to run the executable. If antivirus software blocks the program, see the Troubleshooting section on the GitHub README.
+
+**DATA VISUALIZATION** \
+[Pizza Menu Full Analysis](https://public.tableau.com/profile/wksjr99#!/) - Regression analysis of pizza prices and several predictors using data scraped off the internet, presented in a Tableau viz deck.\
+Tableau Public page: https://public.tableau.com/profile/wksjr99#!/
+- Downloaded data from Kaggle.com in csv format.
+- Wrangled text data to extract prices, styles, shapes, dimensions, types of toppings, number of toppings.
+- Performed multiple linear regression to create a model that predicts the price of pizza based on geographic location, surface area, toppings, and other predictors.
+- Analyzed and summarized the predictive power of the model in slide-deck presentation format on Tableau Public.
+
+**TIME SERIES ANALYTICS (ARDL / ARIMA)**
+Developed an Excel / VBA program for performing automated linear and non-linear autoregressive distributed lag analyses (ARDL, independent variables are progressed through a series of time shifts) on a pool of 130+ economic data series, their derivatives, and interactions to build predictive models for GDP, CPI, and the S&P500, among others.
+
+#### Analytics Experience
 **PROFESSIONAL DEVELOPMENT SABBATICAL, 2015 – Present**
 
 | Added or expanded competency in        | |                                                          |
 |---|---|----------------------------------------------------------|
-| Python 3 / PyCharm / Jupyter | Excel (VBA, Solver, PowerPivot) | Linear / Logit / Softmax Regression (scikit)             |
-| MySQL / SQL Server | Clustering (scikit) | Naive Bayes Classifiers                                  |
-| Tableau Desktop / Server | Support Vector Machines (scikit) | Decision Trees (scikit, xgboost, lightgbm)               |
-| Power BI Desktop / Service | Base SAS | Supervised Neural Networks (scikit, tensorflow, pytorch) |
+| Python 3 / PyCharm / Jupyter | Excel (VBA, Solver, PowerPivot) | Linear / Logit / Softmax Regression (scikit) |
+| MySQL / SQL Server | Clustering (scikit) | Git / GitHub |
+| Tableau Desktop / Server | Support Vector Machines (scikit) | Decision Trees (scikit, xgboost, lightgbm) |
+| Linux | Base SAS | Supervised Neural Networks (scikit, tensorflow, pytorch) |
 
 #### Other Skills (Engineering, Lean / Six Sigma, Metal Finishing)
 **Lean / Six Sigma Skills:**\
