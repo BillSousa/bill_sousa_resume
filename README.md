@@ -67,7 +67,7 @@
 
 #### Projects
 **PYTHON ANALYTICS DEVELOPMENT AND PUBLISHING (WITHOUT AI ASSIST)**\
-[pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing,
+[**pybear**](https://pypi.org/project/pybear/): a full-featured Python data analytics utilities library for data preprocessing,
 model selection, and text analytics using the scikit-learn API, optimized for real-world data\
 Implemented bigger-than-memory data processing with incremental fitting, missing value handling, and joblib parallelism\
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
@@ -88,21 +88,21 @@ Packaged and published installable distributions to PyPI\
 - Text Analytics - Text wrangling tools built in scikit transformer API style that have the dual capability of working with regular expressions or literal strings; the modules include: Lexicon, NGramMerger, StopRemover, TextJoiner, TextJustifier, TextLookup, TextLookupRealTime, TextNormalizer, TextPadder, TextRemover, TextReplacer, TextSplitter, TextStatistics, and TextStripper
 
 **AI-ASSISTED PYTHON DEVELOPMENT**\
-[foodlog](https://github.com/BillSousa/foodlog): (In-process) Python-based nutrition logging program, built completely by closed-source AI agent code assist\
+[**foodlog**](https://github.com/BillSousa/foodlog): (In-process) Python-based nutrition logging program, built completely by closed-source AI agent code assist\
 Closed-source coding harness: Claude Code\
 Closed-source coding models: Claude Haiku, Claude Sonnet\
 **GitHub repo:** <https://github.com/BillSousa/foodlog>
 
-[krypto](https://github.com/BillSousa/krypto): Python implementation of the classic mathematics card game, built by open-source AI agent code-assist\
+[**krypto**](https://github.com/BillSousa/krypto): Python implementation of the classic mathematics card game, built by open-source AI agent code-assist\
 Open-source coding harness: Aider\
 Open-source coding models: Qwen2.5-coder:14B, Qwen3.5-coder:30B served locally by ollama\
 **GitHub repo:** <https://github.com/BillSousa/krypto> \
-To download the Windows executable, go to the latest release page on the [Krypto GitHub repo](https://github.com/BillSousa/krypto/releases/latest) \
+To download the Windows executable, go to the [latest release page](https://github.com/BillSousa/krypto/releases/latest) on the Krypto GitHub repo \
 Once on the Krypto release page, under the "Assets" heading, find the krypto-windows.exe executable and click on it; 
 navigate to your desired save location on your computer, and select "Save". Double-click to run the executable. If antivirus software blocks the program, see the Troubleshooting section on the GitHub README.
 
 **DATA VISUALIZATION** \
-[Pizza Menu Full Analysis](https://public.tableau.com/profile/wksjr99#!/) - Regression analysis of pizza prices and several predictors using data scraped off the internet, presented in a Tableau viz deck.\
+[**Pizza Menu Full Analysis**](https://public.tableau.com/profile/wksjr99#!/) - Regression analysis of pizza prices and several predictors using data scraped off the internet, presented in a Tableau viz deck\
 **Tableau Public page:** <https://public.tableau.com/profile/wksjr99#!/>
 - Downloaded data from kaggle.com in csv format
 - Wrangled text data to extract prices, styles, shapes, dimensions, types of toppings, number of toppings
