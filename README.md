@@ -68,7 +68,7 @@
 #### Projects
 **PYTHON ANALYTICS DEVELOPMENT AND PUBLISHING (WITHOUT AI ASSIST)**\
 [pybear](https://pypi.org/project/pybear/), a full-featured Python data analytics utilities library for data preprocessing,
-model selection, and text analytics using the scikit-learn API, optimized for real-world data.\
+model selection, and text analytics using the scikit-learn API, optimized for real-world data\
 Implemented bigger-than-memory data processing with incremental fitting, missing value handling, and joblib parallelism\
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
 Wrote complete user and API documentation using Sphinx, published to Read the Docs\
@@ -79,13 +79,13 @@ Packaged and published installable distributions to PyPI\
 **PyPI project site**: <https://pypi.org/project/pybear/>
 
 Major modules:
-- AutoGridSearchCV - Run multiple uninterrupted passes of grid search utilizing progressively narrower search grids.
-- GSTCV (GridSearchThresholdCV) - Conventional grid search on a classifier with concurrent threshold search. Finds the global optima for the passed parameters and thresholds.
-- InterceptManager - Manage constant columns in a dataset. Remove all, keep one, or append a column of constants.
-- ColumnDeduplicator - Identify and selectively remove duplicate columns in numerical or categorical data.
-- MinCountTransformer - Minimum frequency thresholding on numerical and categorical data across an entire array of data simultaneously.
-- SlimPolyFeatures - Polynomial expansion on a dataset omitting constant and duplicate columns from the output.
-- Text Analytics - Text wrangling tools built in scikit transformer API style that have the dual capability of working with regular expressions or literal strings. The modules include: Lexicon, NGramMerger, StopRemover, TextJoiner, TextJustifier, TextLookup, TextLookupRealTime, TextNormalizer, TextPadder, TextRemover, TextReplacer, TextSplitter, TextStatistics, and TextStripper.
+- AutoGridSearchCV - Run multiple uninterrupted passes of grid search utilizing progressively narrower search grids
+- GSTCV (GridSearchThresholdCV) - Conventional grid search on a classifier with concurrent threshold search; finds the global optima for the passed parameters and thresholds
+- InterceptManager - Manage constant columns in a dataset; remove all, keep one, or append a column of constants
+- ColumnDeduplicator - Identify and selectively remove duplicate columns in numerical or categorical data
+- MinCountTransformer - Minimum frequency thresholding on numerical and categorical data across an entire array of data simultaneously
+- SlimPolyFeatures - Polynomial expansion on a dataset omitting constant and duplicate columns from the output
+- Text Analytics - Text wrangling tools built in scikit transformer API style that have the dual capability of working with regular expressions or literal strings; the modules include: Lexicon, NGramMerger, StopRemover, TextJoiner, TextJustifier, TextLookup, TextLookupRealTime, TextNormalizer, TextPadder, TextRemover, TextReplacer, TextSplitter, TextStatistics, and TextStripper
 
 **AI-ASSISTED PYTHON DEVELOPMENT**\
 [foodlog](https://github.com/BillSousa/foodlog): (In-process) Python-based nutrition logging program, built completely by closed-source AI agent code assist\
@@ -97,19 +97,19 @@ GitHub repo: https://github.com/BillSousa/foodlog
 Open-source coding harness: Aider\
 Open-source coding models: Qwen2.5-coder:14B, Qwen3.5-coder:30B served locally by ollama\
 GitHub repo: https://github.com/BillSousa/krypto \
-To download the Windows executable, go to the latest release page on the Krypto GitHub repo: https://github.com/BillSousa/krypto/releases/latest
+To download the Windows executable, go to the latest release page on the [Krypto GitHub repo](https://github.com/BillSousa/krypto/releases/latest) \
 Once on the Krypto release page, under the "Assets" heading, find the krypto-windows.exe executable and click on it; 
 navigate to your desired save location on your computer, and select "Save". Double-click to run the executable. If antivirus software blocks the program, see the Troubleshooting section on the GitHub README.
 
 **DATA VISUALIZATION** \
 [Pizza Menu Full Analysis](https://public.tableau.com/profile/wksjr99#!/) - Regression analysis of pizza prices and several predictors using data scraped off the internet, presented in a Tableau viz deck.\
 Tableau Public page: https://public.tableau.com/profile/wksjr99#!/
-- Downloaded data from Kaggle.com in csv format.
-- Wrangled text data to extract prices, styles, shapes, dimensions, types of toppings, number of toppings.
-- Performed multiple linear regression to create a model that predicts the price of pizza based on geographic location, surface area, toppings, and other predictors.
-- Analyzed and summarized the predictive power of the model in slide-deck presentation format on Tableau Public.
+- Downloaded data from Kaggle.com in csv format
+- Wrangled text data to extract prices, styles, shapes, dimensions, types of toppings, number of toppings
+- Performed multiple linear regression to create a model that predicts the price of pizza based on geographic location, surface area, and toppings
+- Analyzed and summarized the predictive power of the model in slide-deck presentation format on Tableau Public
 
-**TIME SERIES ANALYTICS (ARDL / ARIMA)**
+**TIME SERIES ANALYTICS (ARDL / ARIMA)** \
 Developed an Excel / VBA program for performing automated linear and non-linear autoregressive distributed lag analyses (ARDL, independent variables are progressed through a series of time shifts) on a pool of 130+ economic data series, their derivatives, and interactions to build predictive models for GDP, CPI, and the S&P500, among others.
 
 #### Analytics Experience
