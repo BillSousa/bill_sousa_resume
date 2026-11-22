@@ -8,13 +8,13 @@
 
 #### Summary
 **FORMER CHEMICAL / MANUFACTURING ENGINEER NOW DATA ANALYST / PYTHON DEVELOPER**
-- Data analyst, Python developer, and open-source maintainer with expertise in building scalable, interoperable data analytics tools
+- Data analyst, Python developer, and open-source maintainer with experience building scalable, interoperable data analytics tools
 - Creator of [pybear](https://pypi.org/project/pybear/), an open-source Python data analytics library built on scikit-learn conventions
 - End-to-end proficiency in Python development, documentation, testing, packaging, and CI/CD
 - Proficient in data querying, analysis, and presentation with Python, MySQL, SQL Server, Excel / VBA, and Tableau
 - Skilled in producing and communicating with operating and financial performance metrics, fully literate in financials
 - Chemical Engineer / MBA with 15+ years’ progressive experience in intensive lean manufacturing environments
-- 10+ years’ experience in roles supporting the manufacture of electrical connectors in consumer electronics industries
+- 10+ years’ experience in roles supporting the manufacture of electrical connectors for consumer electronics
 
 #### General Computer Skills
 | **Proficient / Expert**                                                           |                                                                        |       |
@@ -71,14 +71,14 @@
 model selection, and text analytics using the scikit-learn API, optimized for real-world data\
 Implemented bigger-than-memory data processing with incremental fitting, missing value handling, and joblib parallelism\
 Interoperable with numpy, pandas, polars, and scipy.sparse data containers\
-Wrote complete user and API documentation using Sphinx, published to Read the Docs\
+Wrote complete API documentation using Sphinx, published to Read the Docs\
 Built and maintained automated tests and CI with GitHub Actions for Python 3.10–3.15 on Windows / Linux / macOS\
 Packaged and published installable distributions to PyPI\
 **GitHub repo**: <https://github.com/PylarBear/pybear/>\
 **Documentation Site (Read the Docs)**: <https://pybear.readthedocs.io/>  
 **PyPI project site**: <https://pypi.org/project/pybear/>
 
-Major modules:
+**Major modules**:
 - AutoGridSearchCV - Run multiple uninterrupted passes of grid search utilizing progressively narrower search grids
 - GSTCV (GridSearchThresholdCV) - Conventional grid search on a classifier with concurrent threshold search; finds the global optima for the passed parameters and thresholds
 - InterceptManager - Manage constant columns in a dataset; remove all, keep one, or append a column of constants
@@ -91,20 +91,20 @@ Major modules:
 [foodlog](https://github.com/BillSousa/foodlog): (In-process) Python-based nutrition logging program, built completely by closed-source AI agent code assist\
 Closed-source coding harness: Claude Code\
 Closed-source coding models: Claude Haiku, Claude Sonnet\
-GitHub repo: https://github.com/BillSousa/foodlog
+**GitHub repo:** <https://github.com/BillSousa/foodlog>
 
 [krypto](https://github.com/BillSousa/krypto): Python implementation of the classic mathematics card game, built by open-source AI agent code-assist\
 Open-source coding harness: Aider\
 Open-source coding models: Qwen2.5-coder:14B, Qwen3.5-coder:30B served locally by ollama\
-GitHub repo: https://github.com/BillSousa/krypto \
+**GitHub repo:** <https://github.com/BillSousa/krypto> \
 To download the Windows executable, go to the latest release page on the [Krypto GitHub repo](https://github.com/BillSousa/krypto/releases/latest) \
 Once on the Krypto release page, under the "Assets" heading, find the krypto-windows.exe executable and click on it; 
 navigate to your desired save location on your computer, and select "Save". Double-click to run the executable. If antivirus software blocks the program, see the Troubleshooting section on the GitHub README.
 
 **DATA VISUALIZATION** \
 [Pizza Menu Full Analysis](https://public.tableau.com/profile/wksjr99#!/) - Regression analysis of pizza prices and several predictors using data scraped off the internet, presented in a Tableau viz deck.\
-Tableau Public page: https://public.tableau.com/profile/wksjr99#!/
-- Downloaded data from Kaggle.com in csv format
+**Tableau Public page:** <https://public.tableau.com/profile/wksjr99#!/>
+- Downloaded data from kaggle.com in csv format
 - Wrangled text data to extract prices, styles, shapes, dimensions, types of toppings, number of toppings
 - Performed multiple linear regression to create a model that predicts the price of pizza based on geographic location, surface area, and toppings
 - Analyzed and summarized the predictive power of the model in slide-deck presentation format on Tableau Public
