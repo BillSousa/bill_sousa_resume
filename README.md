@@ -211,6 +211,18 @@ Instructed, supervised, and assisted all activity associated with subscale fuel-
 **Engineer / Scientist I**\
 Authored text and prepared data in environmental remediation reports for specific sites, describing site classification, soil and groundwater sampling, analytical results, cleanup criteria, and corrective measures. Participated in follow-up groundwater sampling.
 
+#### Certifications
+- [**Building with the Claude API**](https://verify.skilljar.com/c/7t33zwd3zmm5), Anthropic, 05/2026
+- [**Introduction to Agent Skills**](https://verify.skilljar.com/c/r3zohnsuxee2), Anthropic, 05/2026
+- [**Introduction to Model Context Protocol**](https://verify.skilljar.com/c/iny5348zsvo9), Anthropic, 05/2026
+- [**Introduction to Subagents**](https://verify.skilljar.com/c/pokdi3v2xg4f), Anthropic, 05/2026
+- [**Claude Code 101**](https://verify.skilljar.com/c/9r3wg7ac3ak2), Anthropic, 04/2026
+- [**Claude Code in Action**](https://verify.skilljar.com/c/on6ubngpbdi5), Anthropic, 04/2026
+- [**Python (Basic)**](https://www.hackerrank.com/certificates/1c7b0f507c17), HackerRank, 11/2025
+- [**SQL (Basic)**](https://www.hackerrank.com/certificates/01ebfc653c97), HackerRank, 11/2025
+- [**Containers & Kubernetes Essentials**](https://www.credly.com/badges/7c893c46-f24b-4780-8422-21df245ce414), IBM Training, 11/2021
+- [**SAS Programming 1: Essentials**](https://www.credly.com/badges/a5c8466b-c451-437d-bc61-f3059f8e50dd), SAS e-Learning, 02/2021
+
 #### Education
 **Bachelor of Science, Chemical Engineering, with Distinction**\
 [The University of Rhode Island](<https://web.uri.edu/cheme/>), 1999\
